@@ -14,7 +14,7 @@ We used
   
   
 For more detail,
-Link :https://www.gitbook.com/book/wonwoowon/robotics-team-project/details
+look up the link :https://www.gitbook.com/book/wonwoowon/robotics-team-project/details
 
 
 
