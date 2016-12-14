@@ -13,7 +13,7 @@ We used
   5. Arduino UNO board
   
   
-Schmatic is on gitbook
+For more detail,
 Link :https://www.gitbook.com/book/wonwoowon/robotics-team-project/details
 
 
