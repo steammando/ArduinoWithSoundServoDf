@@ -14,7 +14,7 @@ We used
   
   
 Schmatic is on gitbook
-Link :
+Link :https://www.gitbook.com/book/wonwoowon/robotics-team-project/details
 
 
 
